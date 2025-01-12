@@ -46,8 +46,6 @@ nav {
 }
 
 
-/* Banner 1 */
-
 .banner_section {
   background-color: #c6e4d6;
   display: flex;
@@ -76,7 +74,8 @@ nav {
   color: rgba(14, 14, 14, 0.7);
 }
 
-/* Bannner 2 */
+
+
 
 .Pillar_of_bd{
     margin: 70px 150px;
@@ -111,7 +110,9 @@ nav {
 .Pillar_of_bd .cards .card img {
   padding: 10px;
 }
-/* Banner 3 */
+
+
+
 
 .Future{
     margin: 70px 150px;
@@ -192,7 +193,10 @@ nav {
   background-color: #ffc239;
 }
 
-/* Banner 4 remeaning */
+
+
+
+
 .speech {
   background: #ffffff;
 
@@ -226,7 +230,6 @@ nav {
   color: rgba(14, 14, 14, 0.7);
 }
 
-/* Banner 5 */
 .Opinion {
   display: flex;
   flex-direction: column;
@@ -279,7 +282,7 @@ td {
 }
 
 
-/* banner 6 */
+
 
 .News {
   display: flex;
@@ -324,8 +327,9 @@ td {
 }
 
 
-/* Banner 7 */
-.banner7 {
+
+
+.Donate {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -333,21 +337,21 @@ td {
   margin: 70px 220px;
 }
 
-.banner7 .b7h {
+.Donate .b7h {
   text-align: center;
 }
-.banner7 .b7p {
+.Donate .b7p {
   text-align: center;
   font-size: 16px;
   color: rgba(14, 14, 14, 0.7);
 }
 
-.banner7 .btn-cards {
+.Donate .btn-cards {
   display: flex;
   justify-content: space-between;
 }
 
-.banner7 .btn-cards .btn {
+.Donate .btn-cards .btn {
   background-color: #ffffff;
   margin: 20px;
   width: 200px;
@@ -358,7 +362,7 @@ td {
   font-weight: bold;
   cursor: pointer;
 }
-.banner7 .btn-cards .btn1 {
+.Donate .btn-cards .btn1 {
   background-color: #C6E4D6;
   margin: 20px;
   width: 200px;
@@ -369,12 +373,12 @@ td {
   font-weight: bold;
   cursor: pointer;
 }
-.banner7 .btn-cards .btn:hover{
+.Donate .btn-cards .btn:hover{
   background-color: #C6E4D6;
 }
 
 
-.banner7 input {
+.Donate input {
   text-align: center;
   width: 80%;
   padding: 10px;
@@ -385,7 +389,7 @@ td {
   box-sizing: border-box;
 }
 
-.banner7 .donate-btn {
+.Donate .donate-btn {
 
   background-color: #006a50;
   font-size: 16px;
@@ -395,15 +399,14 @@ td {
   border: none;
   border-radius: 8px;
 }
-.banner7 .donate-btn:hover{
+.Donate .donate-btn:hover{
   background-color: #50C878;
 }
 
 
-/* Banner 8 */
 
 
-.banner8{
+.Subscribe{
   background-color: #C6E4D6;
   border-radius: 10px;
   display: flex;
@@ -414,7 +417,7 @@ td {
   margin: 70px 150px;
 }
 
-.banner8 p {
+.Subscribe p {
   width:  500px;
   text-align: center;
   font-size: 15px;
@@ -422,7 +425,7 @@ td {
 }
 
 
-.banner8 .input-box {
+.Subscribe .input-box {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -431,7 +434,7 @@ td {
   padding: 20px;
  
 }
-.banner8 .input-box input {
+.Subscribe .input-box input {
   border-radius: 8px 0 0 8px;
   width: 400px;
   border: none;
@@ -440,7 +443,7 @@ td {
   
 }
 
-.banner8 .input-box button {
+.Subscribe .input-box button {
   border-radius: 0 8px 8px 0;
   border-color: transparent;
   padding: 13px;
